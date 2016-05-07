@@ -7,7 +7,7 @@ var source = {
 		host: 'localhost', 
 		user: 'root',
 		password: '',
-		database:starwars
+		database: 'starwars_db'
 	},
 	heroku: {
 		database: "gh3skg4o4t43nk9s",
