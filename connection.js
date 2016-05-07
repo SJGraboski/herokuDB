@@ -8,7 +8,7 @@ var source = {
 		user: 'root',
 		password: '',
 		database:starwars
-	}
+	},
 	heroku: {
 		database: "gh3skg4o4t43nk9s",
 		host: 'l9dwvv6j64hlhpul.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
